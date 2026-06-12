@@ -375,6 +375,22 @@ npm install express mongoose cors dotenv bcryptjs jsonwebtoken morgan
 npm install nodemon --save-dev
 
 ---
+## Home Page
+
+![Home Page](./frontend/src/Screenshots/Home.png)
+
+## Login Page
+
+![Login Page](./frontend/src/Screenshots/Login.png)
+
+## Tasks
+
+![Tasks](./frontend/src/Screenshots/Tasks.png)
+
+## Register page
+
+![Register page](./frontend/src/Screenshots/Register.png)
+
 
 # Role-Based Access
 
