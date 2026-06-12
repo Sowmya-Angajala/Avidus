@@ -1,0 +1,25 @@
+.sidebar{
+  width:220px;
+  min-height:100vh;
+  background:#556b2f;
+  color:white;
+  padding:25px 20px;
+}
+
+.sidebar h2{
+  font-size:28px;
+  margin-bottom:40px;
+  font-weight:700;
+}
+
+.sidebar a{
+  display:block;
+  color:white;
+  padding:12px 0;
+  font-size:18px;
+}
+
+.logout-btn{
+  margin-top:40px;
+  width:100%;
+}
